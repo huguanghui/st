@@ -8,10 +8,14 @@
 // static char *font = "JetBrainsMono Nerd Font
 // :pixelsize=15:antialias=true:autohint=true"; static char *font2[] = {
 // "JetBrainsMono Nerd Font :pixelsize=15:antialias=true:autohint=true" };
+// static char *font =
+//     "FiraCode Nerd Font Mono:pixelsize=20:antialias=true:autohint=true";
+// static char *font2[] = {
+//     "FiraCode Nerd Font Mono:pixelsize=20:antialias=true:autohint=true"};
 static char *font =
-    "FiraCode Nerd Font Mono:pixelsize=20:antialias=true:autohint=true";
+    "JetBrainsMono Nerd Font Mono:pixelsize=22:antialias=true:autohint=true";
 static char *font2[] = {
-    "FiraCode Nerd Font Mono:pixelsize=20:antialias=true:autohint=true"};
+    "JetBrainsMono Nerd Font Mono:pixelsize=22:antialias=true:autohint=true"};
 static int borderpx = 0;
 
 /*
